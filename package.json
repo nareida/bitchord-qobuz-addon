@@ -1,0 +1,7 @@
+{
+  "name": "bitchord-qobuz-addon",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "src/worker.js"
+}

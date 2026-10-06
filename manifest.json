@@ -1,0 +1,6 @@
+{
+  "id": "qobuz-addon",
+  "name": "Qobuz Add‑on",
+  "version": "1.0.0",
+  "resources": ["search", "stream"]
+}
